@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bookstohome Test Suite">
+    <test name="Bookstohome Test">
+        <classes>
+            <class name="BookstoHomelogin"/>
+        </classes>
+    </test>
+</suite>
